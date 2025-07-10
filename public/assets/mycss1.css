@@ -1,0 +1,190 @@
+.f2f2f2 {
+    background: #f2f2f2;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-size: 14px;
+    font-family: "Exo 2";
+}
+
+.callto {
+    background-image: url(/assets/calltobg.png);
+    background-repeat: no-repeat;
+}
+
+.bg-sec {
+    background: #F7F7F7;
+}
+
+.plc-shadow {
+    box-shadow: rgba(34, 159, 255, 0.15) 0px 0px 35px;
+}
+
+.h_color {
+    color: rgb(63, 81, 87);
+}
+
+.my_yellow {
+    background: rgb(250, 216, 38);
+}
+
+.my_yellowc {
+    color: #fad826;
+}
+
+.my_blue {
+    background: #299fff;
+}
+
+.my_blue_text {
+    color: #299fff;
+}
+
+.my_bluec {
+    color: #299fff;
+}
+
+.banner-bg {
+    background-image: url(./banner-bg.png);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.tesla-card {
+    box-shadow: 5px -4px 34px #96d0ff;
+}
+
+.my_plc_border {
+    border: 2px #299fff solid;
+}
+
+.my_plc_border2 {
+    border: 1px #299fff solid;
+}
+
+.my_blue_subtle {
+    background: #eff8ff;
+}
+
+.plc-shadow2 {
+    box-shadow: 0 0 15px #229fff4d;
+}
+
+.bg-bmw {
+    background-image: url(./bmw_bg.png);
+    background-repeat: no-repeat;
+}
+
+.plc-shadow3 {
+    box-shadow: 0 0 50px rgba(34,159,255,.3);
+}
+
+.bullet {
+    min-width: 15px;
+    height: 15px;
+}
+
+.bg-map {
+    background-image: url(./map.png);
+}
+
+.bg-foot1 {
+    background: #151524;
+    background-image: url(/assets/footer-bg.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-foot2 {
+    background: #333340;
+}
+
+.border_my2 {
+    border-bottom: 1px grey solid;
+}
+
+.delivery_bg {
+    background-image: url(/assets/delivery-bg.png);
+}
+
+.customs_bg {
+    background-image: url(/assets/customs-bg.jpg);
+    background-size: cover;
+}
+
+.f9f9f9 {
+    background: #f9f9f9;
+}
+
+.ukr_bg {
+    background-image: url(/assets/ukr-bg.png);
+}
+
+.china_bg {
+    background-image: url(/assets/china-bg.png);
+}
+
+.fr-bg {
+    background-image: url(/assets/franch-bg.png);
+}
+
+.my_gray1 {
+    background: #3f5157;
+}
+
+.top-menu-elem:hover {
+    background: #3f5157;
+}
+
+.brand-red-bg {
+    background: #B94141;
+}
+
+.brand-red-text {
+    color: #B94141;
+}
+
+.brand-black-bg {
+    background: #383A3F;
+}
+
+.search-inp::placeholder {
+    color: #6b6f77;
+}
+
+.red-btn:hover {
+    background: #952F2F;
+    color: white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.brand-red-border {
+    border: 1px #952F2F solid;
+    color: #952F2F;
+}
+
+.black-btn:hover {
+    background: #383A3F;
+    color: white;
+    transition-duration: 0.4s;
+}
+
+.brand-border {
+    border: 1px #B94141 solid;
+}
+
+.brand-black-bg2 {
+    background: #383a3f;
+}
+
+
+.second-bg {
+    background: #f0f0f0;
+}
+
+
