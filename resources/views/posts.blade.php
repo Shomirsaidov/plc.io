@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-   аукцион авто в Украине
+   Posts - PLC Auction
 @endsection
 
 

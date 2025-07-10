@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-  {{ $car->vin }} {{ $car->make }} {{ $car->model }} 
+  {{ $car->vin }} {{ $car->make }} {{ $car->model }} - PLC Auction
 @endsection
 
 

@@ -45,13 +45,13 @@
                 <a href="/contact" class="block p-4 border-t font-medium border-white text-lg second-bg">
                     Contact 
                 </a>
-                <a href="/faq" class="block p-4 border-t font-medium border-white text-lg second-bg">
+                <a href="https://plc.auction/faq" class="block p-4 border-t font-medium border-white text-lg second-bg">
                     FAQ
                 </a>
                 <a href="/delivery" class="block p-4 border-t font-medium border-white text-lg second-bg">
                     Delivery
                 </a>
-                <a href="/reviews" class="block p-4 border-t font-medium border-white text-lg second-bg">
+                <a href="https://plc.auction/reviews" class="block p-4 border-t font-medium border-white text-lg second-bg">
                     Reviews
                 </a>
                 <a href="/posts" class="block p-4 border-t font-medium border-white text-lg second-bg">

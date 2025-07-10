@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-  @lang('autos.title')
+  PLC auction Auto - Cars auction - PLC Auction
 @endsection
 
 @section('content')

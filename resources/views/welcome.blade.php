@@ -3,7 +3,7 @@
 
 @section('title')
 
-    PLС-UA аукцоны авто из Кореи, США, Европы, Китая, ОАЭ  
+    Buy Used cars - PLC Auction
 
 @endsection
 
